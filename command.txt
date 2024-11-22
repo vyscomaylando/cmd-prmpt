@@ -8,6 +8,8 @@
 
 find . -name ".htaccess" -delete           → Semua .htaccessakan dihapus
 
+find path/path -type d -exec cp file.htaccess {} \;
+
 
 command prmpt
 
